@@ -7,7 +7,6 @@ some description.!!!!!!!
 watch tutorial in youtube
 
 PLEASE DO WATCH
-ksjflkdfjglkjslgjsldfjglsdjflgkjdslkjgl
-lkdnglkjslkgjlkdfjsgl
 
+It is all about the working of git and github. they teach you how to change it in everything.
 
